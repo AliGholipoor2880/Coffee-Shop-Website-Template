@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Coffee Shop Website Template
 
 ## Description
