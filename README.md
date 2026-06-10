@@ -14,4 +14,4 @@ This is a simple website template designed for a coffee shop. It is a beginner-l
 
 Click the link below to view the project:
 
-[View Project](YOUR_PROJECT_LINK_HERE)
+[View Project](https://aligholipoor2880.github.io/Coffee-Shop-Website-Template/)
